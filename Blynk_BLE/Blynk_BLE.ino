@@ -47,7 +47,7 @@
 #include <M5Stack.h>
 
 // You must change these to match your settings!
-char deviceName[] = "________"
+char deviceName[] = "________";
 char auth[] = "______________";
 
 BamBotMotorDriver motors;
