@@ -1,4 +1,6 @@
 /*
+ * PLEASE VIEW "README.md" BEFORE STARTING!!!
+ *
  * Required Libraries:
  * Blynk (https://github.com/blynkkk/blynk-library)
  * BamBotMotorDriver (https://github.com/garmstrong456/BamBotMotorDriver)
