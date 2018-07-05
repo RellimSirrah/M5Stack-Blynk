@@ -32,7 +32,6 @@
  * 
  * Notes:
  * Remeber to disable all serial commands if it interferes with motor control.
- * Even if your M5Stack says "ON", that does not guarentee it successfully connected to WiFi.
  */
  
 #define BLYNK_PRINT Serial
