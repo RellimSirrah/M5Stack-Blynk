@@ -47,9 +47,9 @@
 
 
 // You must change these to match your settings!
-char auth[] = "a45ea971521a44f3891749af1f04eb26";
-char ssid[] = "rcbot";
-char pass[] = "connecttothis";
+char auth[] = "__________";
+char ssid[] = "__________";
+char pass[] = "__________";
 
 int bState = 0;
 bool f, b, l, r;
