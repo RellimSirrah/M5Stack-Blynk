@@ -1,6 +1,7 @@
 # M5Stack-Projects
 
-**For all projects using the Blynk library, please M5Timer.h to /libraries/M5Stack/src/utility/**
+**Download, unzip, and copy these files to your sketchbook folder!**
+**This folder is listed under File > Preferences as "Sketchbook location"**
 
 ## Project Descriptions
 ### Blynk_WiFi
