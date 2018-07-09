@@ -1,4 +1,5 @@
 # M5Stack-Projects
+created by Harris Miller
 
 **Download, unzip, and copy these files to your sketchbook folder! This folder is listed under File > Preferences as "Sketchbook location"**
 *https://goo.gl/HD84iZ*
@@ -9,5 +10,3 @@ Wirelessly controls the BamBot over WiFi
 
 ### Blynk_BLE
 Wirelessly controls the BamBot over BLE (Bluetooth Low Energy)
-
-*created by Harris Miller*
