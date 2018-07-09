@@ -6,8 +6,8 @@
 ## Project Descriptions
 ### Blynk_WiFi
 Wirelessly controls the BamBot over WiFi
-*(uses Blynk library)*
 
 ### Blynk_BLE
 Wirelessly controls the BamBot over BLE (Bluetooth Low Energy)
-*(uses Blynk library)*
+
+*created by Harris Miller*
