@@ -1,4 +1,4 @@
-# M5Stack-Projects
+# M5Stack-Blynk
 
 **Download, unzip, and copy these files to your sketchbook folder! This folder is listed under File > Preferences as "Sketchbook location"**
 *https://goo.gl/HD84iZ*
