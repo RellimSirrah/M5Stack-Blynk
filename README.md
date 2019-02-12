@@ -1,4 +1,7 @@
 # M5Stack_Blynk
+### Arduino sketches enabling wireless communication with M5Stack using Blynk services
+Also see Cornell Robotics 2018 repository
+https://github.com/garmstrong456/Cornell-Robotics-2018
 
 **The required libraries and instructions are listed at the top of each sketch.**
 
